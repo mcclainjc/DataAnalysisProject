@@ -1,0 +1,186 @@
+,Title,World Sales (in $),IMDB_Rating,Runtime,Genre,Director
+0,Star Wars: Episode VII - The Force Awakens,2069521700,7.9,138 min,"Action, Adventure, Sci-Fi",J.J. Abrams
+1,Avengers: Endgame,2797501328,8.4,181 min,"Action, Adventure, Drama",Anthony Russo
+2,Avatar,2847246203,7.8,162 min,"Action, Adventure, Fantasy",James Cameron
+3,Avengers: Infinity War,2048359754,8.4,149 min,"Action, Adventure, Sci-Fi",Anthony Russo
+4,Titanic,2201647264,7.8,194 min,"Drama, Romance",James Cameron
+5,The Avengers,1518815515,8.0,143 min,"Action, Adventure, Sci-Fi",Joss Whedon
+6,Incredibles 2,1243089244,7.6,118 min,"Animation, Action, Adventure",Brad Bird
+7,The Lion King,1662899439,8.5,88 min,"Animation, Adventure, Drama",Roger Allers
+8,The Lion King,1063611805,8.5,88 min,"Animation, Adventure, Drama",Roger Allers
+9,The Dark Knight,1005973645,9.0,152 min,"Action, Crime, Drama",Christopher Nolan
+10,Beauty and the Beast,1273576220,8.0,84 min,"Animation, Family, Fantasy",Gary Trousdale
+11,Beauty and the Beast,424967620,8.0,84 min,"Animation, Family, Fantasy",Gary Trousdale
+12,The Dark Knight Rises,1081142612,8.4,164 min,"Action, Adventure",Christopher Nolan
+13,E.T. the Extra-Terrestrial,792910554,7.8,115 min,"Family, Sci-Fi",Steven Spielberg
+14,Toy Story 4,1073394593,7.8,100 min,"Animation, Adventure, Comedy",Josh Cooley
+15,Toy Story 3,1066970811,8.2,103 min,"Animation, Adventure, Comedy",Lee Unkrich
+16,Captain America: Civil War,1153337496,7.8,147 min,"Action, Adventure, Sci-Fi",Anthony Russo
+17,Jurassic Park,1033928303,8.1,127 min,"Action, Adventure, Sci-Fi",Steven Spielberg
+18,Guardians of the Galaxy Vol. 2,863756051,7.6,136 min,"Action, Adventure, Comedy",James Gunn
+19,Harry Potter and the Deathly Hallows: Part 2,1342321665,8.1,130 min,"Adventure, Drama, Fantasy",David Yates
+20,Finding Nemo,940352645,8.1,100 min,"Animation, Adventure, Comedy",Andrew Stanton
+21,The Lord of the Rings: The Return of the King,1146030912,8.9,201 min,"Action, Adventure, Drama",Peter Jackson
+22,The Jungle Book,966554929,7.6,78 min,"Animation, Adventure, Family",Wolfgang Reitherman
+23,Deadpool,782836791,8.0,108 min,"Action, Adventure, Comedy",Tim Miller
+24,Inside Out,858848019,8.1,95 min,"Animation, Adventure, Comedy",Pete Docter
+25,Aladdin,1050693953,8.0,90 min,"Animation, Adventure, Comedy",Ron Clements
+26,Aladdin,504050219,8.0,90 min,"Animation, Adventure, Comedy",Ron Clements
+27,The Lord of the Rings: The Two Towers,947495095,8.7,179 min,"Action, Adventure, Drama",Peter Jackson
+28,Zootopia,1024121104,8.0,108 min,"Animation, Adventure, Comedy",Byron Howard
+29,Joker,1074419384,8.5,122 min,"Crime, Drama, Thriller",Todd Phillips
+30,Guardians of the Galaxy,773350147,8.0,121 min,"Action, Adventure, Comedy",James Gunn
+31,Forrest Gump,678226133,8.8,142 min,"Drama, Romance",Robert Zemeckis
+32,Deadpool 2,785896609,7.7,119 min,"Action, Adventure, Comedy",David Leitch
+33,Iron Man,585796247,7.9,126 min,"Action, Adventure, Sci-Fi",Jon Favreau
+34,Harry Potter and the Sorcerer's Stone,1016813075,7.6,152 min,"Adventure, Family, Fantasy",Chris Columbus
+35,The Lord of the Rings: The Fellowship of the Ring,897690072,8.8,178 min,"Action, Adventure, Drama",Peter Jackson
+36,Thor: Ragnarok,853983911,7.9,130 min,"Action, Adventure, Comedy",Taika Waititi
+37,Star Wars: Episode VI - Return of the Jedi,475106177,8.3,131 min,"Action, Adventure, Fantasy",Richard Marquand
+38,Pirates of the Caribbean: The Curse of the Black Pearl,654264015,8.0,143 min,"Action, Adventure, Fantasy",Gore Verbinski
+39,Skyfall,1108569499,7.7,143 min,"Action, Adventure, Thriller",Sam Mendes
+40,The Hobbit: An Unexpected Journey,1017003568,7.8,169 min,"Adventure, Fantasy",Peter Jackson
+41,Harry Potter and the Half-Blood Prince,934454096,7.6,153 min,"Action, Adventure, Family",David Yates
+42,Harry Potter and the Deathly Hallows: Part 1,977043483,7.7,146 min,"Adventure, Family, Fantasy",David Yates
+43,The Sixth Sense,672806432,8.1,107 min,"Drama, Mystery, Thriller",M. Night Shyamalan
+44,Up,735099102,8.2,96 min,"Animation, Adventure, Comedy",Pete Docter
+45,Star Wars: Episode V - The Empire Strikes Back,538375067,8.7,124 min,"Action, Adventure, Fantasy",Irvin Kershner
+46,Inception,836836967,8.8,148 min,"Action, Adventure, Sci-Fi",Christopher Nolan
+47,"Monsters, Inc.",579707738,8.1,92 min,"Animation, Adventure, Comedy",Pete Docter
+48,Harry Potter and the Goblet of Fire,896678241,7.7,157 min,"Adventure, Family, Fantasy",Mike Newell
+49,Home Alone,476684675,7.6,103 min,"Comedy, Family",Chris Columbus
+50,The Hangover,469310836,7.7,100 min,Comedy,Todd Phillips
+51,Gravity,723192705,7.7,91 min,"Drama, Sci-Fi, Thriller",Alfonso Cuarón
+52,Shrek,487853320,7.8,90 min,"Animation, Adventure, Comedy",Andrew Adamson
+53,The Incredibles,631607053,8.0,115 min,"Animation, Action, Adventure",Brad Bird
+54,Jaws,471411300,8.0,124 min,"Adventure, Thriller",Steven Spielberg
+55,Captain America: The Winter Soldier,714421503,7.7,136 min,"Action, Adventure, Sci-Fi",Anthony Russo
+56,The Hobbit: The Desolation of Smaug,959007513,7.8,161 min,"Adventure, Fantasy",Peter Jackson
+57,The Lego Movie,468060692,7.7,100 min,"Animation, Action, Adventure",Christopher Miller
+58,Star Trek,385680446,7.9,127 min,"Action, Adventure, Sci-Fi",J.J. Abrams
+59,The Blind Side,309208309,7.6,129 min,"Biography, Drama, Sport",John Lee Hancock
+60,Despicable Me,543113985,7.6,95 min,"Animation, Comedy, Crime",Pierre Coffin
+61,Harry Potter and the Prisoner of Azkaban,797361618,7.9,142 min,"Adventure, Family, Fantasy",Alfonso Cuarón
+62,Moana,644136488,7.6,107 min,"Animation, Adventure, Comedy",Ron Clements
+63,Toy Story 2,497375381,7.9,92 min,"Animation, Adventure, Comedy",John Lasseter
+64,Ghostbusters,296578797,7.8,105 min,"Action, Comedy, Fantasy",Ivan Reitman
+65,Ghostbusters,229147509,7.8,105 min,"Action, Comedy, Fantasy",Ivan Reitman
+66,X-Men: Days of Future Past,746045700,7.9,132 min,"Action, Adventure, Sci-Fi",Bryan Singer
+67,Cast Away,429632142,7.8,143 min,"Adventure, Drama, Romance",Robert Zemeckis
+68,Star Trek Into Darkness,467365246,7.7,132 min,"Action, Adventure, Sci-Fi",J.J. Abrams
+69,The Martian,630162448,8.0,144 min,"Adventure, Drama, Sci-Fi",Ridley Scott
+70,The Bourne Ultimatum,444100035,8.0,115 min,"Action, Mystery, Thriller",Paul Greengrass
+71,Logan,619179950,8.1,137 min,"Action, Drama, Sci-Fi",James Mangold
+72,WALL·E,521311890,8.4,98 min,"Animation, Adventure, Family",Andrew Stanton
+73,Big Hero 6,657869686,7.8,102 min,"Animation, Action, Adventure",Don Hall
+74,Mission: Impossible - Fallout,791657398,7.7,147 min,"Action, Adventure, Thriller",Christopher McQuarrie
+75,King Kong,556906378,7.9,100 min,"Adventure, Horror, Sci-Fi",Merian C. Cooper
+76,How to Train Your Dragon,494879471,8.1,98 min,"Animation, Action, Adventure",Dean DeBlois
+77,Saving Private Ryan,482349603,8.6,169 min,"Drama, War",Steven Spielberg
+78,Bohemian Rhapsody,910809311,8.0,134 min,"Biography, Drama, Music",Bryan Singer
+79,A Star Is Born,436188866,7.6,136 min,"Drama, Music, Romance",Bradley Cooper
+80,Back to the Future,381906762,8.5,116 min,"Adventure, Comedy, Sci-Fi",Robert Zemeckis
+81,300,456068181,7.6,117 min,"Action, Drama",Zack Snyder
+82,Coco,807817888,8.4,105 min,"Animation, Adventure, Family",Lee Unkrich
+83,Sherlock Holmes,524028679,7.6,128 min,"Action, Adventure, Mystery",Guy Ritchie
+84,Dawn of the Planet of the Apes,710644566,7.6,130 min,"Action, Adventure, Drama",Matt Reeves
+85,Batman Begins,373661946,8.2,140 min,"Action, Adventure",Christopher Nolan
+86,Ratatouille,623726085,8.0,111 min,"Animation, Adventure, Comedy",Brad Bird
+87,Terminator 2: Judgment Day,520881154,8.5,137 min,"Action, Sci-Fi",James Cameron
+88,Tangled,592462816,7.7,100 min,"Animation, Adventure, Comedy",Nathan Greno
+89,Indiana Jones and the Last Crusade,474171806,8.2,127 min,"Action, Adventure",Steven Spielberg
+90,Spider-Man: Into the Spider-Verse,375540831,8.4,117 min,"Animation, Action, Adventure",Bob Persichetti
+91,Dunkirk,527016307,7.8,106 min,"Action, Drama, History",Christopher Nolan
+92,Wreck-It Ralph,471222889,7.7,101 min,"Animation, Adventure, Comedy",Rich Moore
+93,Interstellar,701729206,8.6,169 min,"Adventure, Drama, Sci-Fi",Christopher Nolan
+94,Gladiator,465380802,8.5,155 min,"Action, Adventure, Drama",Ridley Scott
+95,Dances with Wolves,424208848,8.0,181 min,"Adventure, Drama, Western",Kevin Costner
+96,The Fugitive,368875760,7.8,130 min,"Action, Crime, Drama",Andrew Davis
+97,The Revenant,532950503,8.0,156 min,"Action, Adventure, Drama",Alejandro G. Iñárritu
+98,Ocean's Eleven,450717150,7.7,116 min,"Crime, Thriller",Steven Soderbergh
+99,Planet of the Apes,362211740,8.0,112 min,"Adventure, Sci-Fi",Franklin J. Schaffner
+100,How to Train Your Dragon 2,621537519,7.8,102 min,"Animation, Action, Adventure",Dean DeBlois
+101,The Bourne Supremacy,290835269,7.7,108 min,"Action, Mystery, Thriller",Paul Greengrass
+102,Apollo 13,355237933,7.6,140 min,"Adventure, Drama, History",Ron Howard
+103,Rain Man,354825435,8.0,133 min,Drama,Barry Levinson
+104,The Matrix,466625730,8.7,136 min,"Action, Sci-Fi",Lana Wachowski
+105,True Grit,252276927,7.6,110 min,"Drama, Western",Ethan Coen
+106,A Beautiful Mind,316791257,8.2,135 min,"Biography, Drama",Ron Howard
+107,The Help,216639112,8.0,146 min,Drama,Tate Taylor
+108,Hidden Figures,235956898,7.8,127 min,"Biography, Drama, History",Theodore Melfi
+109,Gone Girl,369330363,8.1,149 min,"Drama, Mystery, Thriller",David Fincher
+110,Casino Royale,616502912,8.0,144 min,"Action, Adventure, Thriller",Martin Campbell
+111,Knives Out,311605581,7.9,130 min,"Comedy, Crime, Drama",Rian Johnson
+112,Catch Me If You Can,352114312,8.1,141 min,"Biography, Crime, Drama",Steven Spielberg
+113,The Pursuit of Happyness,307127625,8.0,117 min,"Biography, Drama",Gabriele Muccino
+114,Django Unchained,426074373,8.4,165 min,"Drama, Western",Quentin Tarantino
+115,Straight Outta Compton,201634991,7.8,147 min,"Biography, Drama, History",F. Gary Gray
+116,Halloween,255614941,7.7,91 min,"Horror, Thriller",John Carpenter
+117,1917,384919389,8.3,119 min,"Drama, Thriller, War",Sam Mendes
+118,Who Framed Roger Rabbit,329803958,7.7,104 min,"Animation, Adventure, Comedy",Robert Zemeckis
+119,Mad Max: Fury Road,375658750,8.1,120 min,"Action, Adventure, Sci-Fi",George Miller
+120,La La Land,448906865,8.0,128 min,"Comedy, Drama, Music",Damien Chazelle
+121,As Good as It Gets,314178011,7.7,139 min,"Comedy, Drama, Romance",James L. Brooks
+122,Gran Torino,269958228,8.1,116 min,Drama,Clint Eastwood
+123,Taken,226837760,7.8,90 min,"Action, Thriller",Pierre Morel
+124,A Few Good Men,243240178,7.7,138 min,"Drama, Thriller",Rob Reiner
+125,Slumdog Millionaire,378410542,8.0,120 min,"Drama, Romance",Danny Boyle
+126,The King's Speech,427374317,8.0,118 min,"Biography, Drama, History",Tom Hooper
+127,Platoon,138545632,8.1,120 min,"Drama, War",Oliver Stone
+128,Good Will Hunting,225933435,8.3,126 min,"Drama, Romance",Gus Van Sant
+129,The Green Mile,286801374,8.6,189 min,"Crime, Drama, Fantasy",Frank Darabont
+130,Argo,232325503,7.7,120 min,"Biography, Drama, Thriller",Ben Affleck
+131,The Godfather,246120986,9.2,175 min,"Crime, Drama",Francis Ford Coppola
+132,Wonder,306209289,8.0,113 min,"Drama, Family",Stephen Chbosky
+133,The Departed,291465373,8.5,151 min,"Crime, Drama, Thriller",Martin Scorsese
+134,Silver Linings Playbook,236412453,7.7,122 min,"Comedy, Drama, Romance",David O. Russell
+135,Minority Report,358372926,7.6,145 min,"Action, Crime, Mystery",Steven Spielberg
+136,The Silence of the Lambs,272742922,8.6,118 min,"Crime, Drama, Thriller",Jonathan Demme
+137,American Gangster,269755430,7.8,157 min,"Biography, Crime, Drama",Ridley Scott
+138,American Beauty,356296601,8.3,122 min,Drama,Sam Mendes
+139,Kingsman: The Secret Service,414351546,7.7,129 min,"Action, Adventure, Comedy",Matthew Vaughn
+140,Shutter Island,294805697,8.2,138 min,"Mystery, Thriller",Martin Scorsese
+141,The Curious Case of Benjamin Button,335802786,7.8,166 min,"Drama, Fantasy, Romance",David Fincher
+142,The Truman Show,264118201,8.1,103 min,"Comedy, Drama",Peter Weir
+143,Life of Pi,609016565,7.9,127 min,"Adventure, Drama, Fantasy",Ang Lee
+144,The Fault in Our Stars,307166834,7.7,126 min,"Drama, Romance",Josh Boone
+145,The Bourne Identity,214034224,7.9,119 min,"Action, Mystery, Thriller",Doug Liman
+146,Inglourious Basterds,321457747,8.3,153 min,"Adventure, Drama, War",Quentin Tarantino
+147,Walk the Line,186797986,7.8,136 min,"Biography, Drama, Music",James Mangold
+148,Back to the Future Part II,332500002,7.8,108 min,"Adventure, Comedy, Sci-Fi",Robert Zemeckis
+149,Ford v Ferrari,225508210,8.1,152 min,"Action, Biography, Drama",James Mangold
+150,The Wolf of Wall Street,392000694,8.2,180 min,"Biography, Crime, Drama",Martin Scorsese
+151,Remember the Titans,136771683,7.8,113 min,"Biography, Drama, Sport",Boaz Yakin
+152,District 9,210888950,7.9,112 min,"Action, Sci-Fi, Thriller",Neill Blomkamp
+153,The Last Samurai,454627263,7.7,154 min,"Action, Drama",Edward Zwick
+154,Creed,173567581,7.6,133 min,"Drama, Sport",Ryan Coogler
+155,Black Hawk Down,172989651,7.7,144 min,"Drama, History, War",Ridley Scott
+156,Little Women,216601214,7.8,135 min,"Drama, Romance",Greta Gerwig
+157,Pulp Fiction,213928762,8.9,154 min,"Crime, Drama",Quentin Tarantino
+158,Baby Driver,226945087,7.6,113 min,"Action, Crime, Drama",Edgar Wright
+159,Watchmen,185382813,7.6,162 min,"Action, Drama, Mystery",Zack Snyder
+160,Captain Phillips,218791811,7.8,134 min,"Adventure, Biography, Crime",Paul Greengrass
+161,Black Swan,329398046,8.0,108 min,"Drama, Thriller",Darren Aronofsky
+162,Road to Perdition,181001478,7.7,117 min,"Crime, Drama, Thriller",Sam Mendes
+163,The Girl with the Dragon Tattoo,232617430,7.8,158 min,"Crime, Drama, Mystery",David Fincher
+164,Unforgiven,159157447,8.2,130 min,"Drama, Western",Clint Eastwood
+165,Arrival,203388186,7.9,116 min,"Drama, Sci-Fi",Denis Villeneuve
+166,Million Dollar Baby,216763646,8.1,132 min,"Drama, Sport",Clint Eastwood
+167,Edge of Tomorrow,370541256,7.9,113 min,"Action, Adventure, Sci-Fi",Doug Liman
+168,Se7en,327333559,8.6,127 min,"Crime, Drama, Mystery",David Fincher
+169,The Social Network,224920375,7.7,120 min,"Biography, Drama",David Fincher
+170,Schindler's List,322161245,8.9,195 min,"Biography, Drama, History",Steven Spielberg
+171,The Others,209947037,7.6,101 min,"Horror, Mystery, Thriller",Alejandro Amenábar
+172,The Fighter,129190869,7.8,116 min,"Biography, Drama, Sport",David O. Russell
+173,The Magnificent Seven,162360636,7.7,128 min,"Action, Adventure, Western",John Sturges
+174,Blade Runner 2049,259334548,8.0,164 min,"Action, Drama, Mystery",Denis Villeneuve
+175,The Imitation Game,233555708,8.0,114 min,"Biography, Drama, Thriller",Morten Tyldum
+176,Mystic River,156595191,7.9,138 min,"Crime, Drama, Mystery",Clint Eastwood
+177,Inside Man,186003591,7.6,129 min,"Crime, Drama, Mystery",Spike Lee
+178,Aliens,131060248,8.3,137 min,"Action, Adventure, Sci-Fi",James Cameron
+179,Green Book,321752656,8.2,130 min,"Biography, Comedy, Drama",Peter Farrelly
+180,Die Hard,141603197,8.2,132 min,"Action, Thriller",John McTiernan
+181,Apocalypse Now,92158064,8.4,147 min,"Drama, Mystery, War",Francis Ford Coppola
+182,Brokeback Mountain,178062759,7.7,134 min,"Drama, Romance",Ang Lee
+183,Alien,106285522,8.4,117 min,"Horror, Sci-Fi",Ridley Scott
+184,The Notebook,117815157,7.8,123 min,"Drama, Romance",Nick Cassavetes

@@ -1,0 +1,600 @@
+IMDB_Rating,Director,Runtime,Genre,GoodMovie
+8.2,Paul Thomas Anderson,158,Drama,1
+7.6,Walter Hill,92,"Action, Crime, Thriller",0
+8.1,Yimou Zhang,125,"Drama, History, Romance",1
+7.8,François Truffaut,105,"Drama, Romance",0
+7.8,Richard Linklater,99,"Animation, Drama, Fantasy",0
+7.8,Travis Knight,101,"Animation, Action, Adventure",0
+8,Victor Fleg,102,"Adventure, Family, Fantasy",0
+7.7,Jordan Peele,104,"Horror, Mystery, Thriller",0
+7.6,Francis Ford Coppola,162,"Crime, Drama",0
+7.8,Steven Spielberg,154,Drama,0
+8.2,Ashutosh Gowariker,210,Drama,1
+7.6,Matt Reeves,130,"Action, Adventure, Drama",0
+7.8,Howard Hawks,102,"Comedy, Family, Romance",0
+8,Sergei M. Eisenstein,75,"Drama, History, Thriller",0
+8,Franklin J. Schaffner,112,"Adventure, Sci-Fi",0
+8.4,Hayao Miyazaki,134,"Animation, Action, Adventure",1
+8,Richard Brooks,108,Drama,0
+8,Ron Howard,144,"Biography, Drama, History",0
+8,Denis Villeneuve,164,"Action, Drama, Mystery",0
+7.8,George Cukor,170,"Drama, Family, Musical",0
+7.7,Clint Eastwood,141,"Biography, Crime, Drama",0
+8,Raja Menon,130,"Drama, History",0
+7.9,Howard Hawks,92,"Comedy, Drama, Romance",0
+8.1,Peter Bogdanovich,102,"Comedy, Crime, Drama",1
+7.6,Jonathan Levine,100,"Comedy, Drama, Romance",0
+7.8,James Cameron,162,"Action, Adventure, Fantasy",0
+8.3,Quentin Tarantino,153,"Adventure, Drama, War",1
+8.6,Roberto Benigni,116,"Comedy, Drama, Romance",1
+8,Gary Trousdale,84,"Animation, Family, Fantasy",0
+8,Robert Hamer,106,"Comedy, Crime",0
+7.8,Jee-woon Kim,144,"Action, Crime, Drama",0
+8,Darren Aronofsky,108,"Drama, Thriller",0
+7.6,Rob Reiner,95,"Comedy, Drama, Romance",0
+7.6,James Frawley,95,"Adventure, Comedy, Family",0
+7.6,Mark Rydell,109,Drama,0
+7.8,Ang Lee,120,"Action, Adventure, Fantasy",0
+7.9,Woody Allen,104,"Comedy, Drama",0
+7.8,Tetsuya Nakashima,106,"Drama, Thriller",0
+8.2,Hayao Miyazaki,119,"Animation, Adventure, Family",1
+8.4,Andrew Stanton,98,"Animation, Adventure, Family",1
+8,Woody Allen,93,"Comedy, Romance",0
+8.2,Hayao Miyazaki,86,"Animation, Family, Fantasy",1
+8.1,Jean Renoir,113,"Drama, War",1
+7.7,Oliver Hirschbiegel,120,"Drama, Thriller",0
+8,Mike Nichols,106,"Comedy, Drama, Romance",0
+8.7,Irvin Kershner,124,"Action, Adventure, Fantasy",1
+8,John Huston,100,"Film-Noir, Mystery",0
+7.7,Billy Wilder,113,"Comedy, Drama, Romance",0
+8.2,Robert Mulligan,129,"Crime, Drama",1
+7.8,Jean-Luc Godard,90,"Crime, Drama",0
+8,Andrew Lau,101,"Action, Crime, Drama",0
+7.8,Richard Curtis,123,"Comedy, Drama, Fantasy",0
+7.9,Federico Fellini,123,"Comedy, Drama, Family",0
+7.7,Woody Allen,85,"Comedy, War",0
+8.5,Todd Phillips,122,"Crime, Drama, Thriller",1
+7.9,Duncan Jones,97,"Drama, Mystery, Sci-Fi",0
+7.7,James Mangold,122,"Action, Crime, Drama",0
+8,Edward Zwick,143,"Adventure, Drama, Thriller",0
+7.6,David Lynch,134,"Mystery, Thriller",0
+7.6,Destin Daniel Cretton,137,"Biography, Crime, Drama",0
+7.7,George Sluizer,107,"Mystery, Thriller",0
+7.7,James Marsh,123,"Biography, Drama, Romance",0
+8.5,Olivier Nakache,112,"Biography, Comedy, Drama",1
+7.8,Quentin Tarantino,168,"Crime, Drama, Mystery",0
+7.7,J. Lee Thompson,106,"Drama, Thriller",0
+7.7,Spike Jonze,113,"Comedy, Drama, Fantasy",0
+8.5,Roman Polanski,150,"Biography, Drama, Music",1
+7.6,Joel Schumacher,113,"Action, Crime, Drama",0
+7.7,Hayao Miyazaki,101,"Animation, Adventure, Comedy",0
+7.9,Cecil B. DeMille,220,"Adventure, Drama",0
+7.9,Lee Tamahori,102,"Crime, Drama",0
+7.6,Edgar Wright,113,"Action, Crime, Drama",0
+7.8,Hayao Miyazaki,103,"Animation, Adventure, Drama",0
+7.7,Satoshi Kon,90,"Animation, Drama, Fantasy",0
+7.8,Jaco Van Dormael,141,"Drama, Fantasy, Romance",0
+8.1,Xavier Dolan,139,Drama,1
+8.2,Buster Keaton,45,"Action, Comedy, Romance",1
+7.6,Wolfgang Reitherman,78,"Animation, Adventure, Family",0
+8.1,Farhan Akhtar,183,"Comedy, Drama, Romance",1
+7.7,Woody Allen,96,"Comedy, Fantasy, Romance",0
+8.1,James Mangold,152,"Action, Biography, Drama",1
+7.9,Alan J. Pakula,138,"Biography, Drama, History",0
+8.1,Andrei Tarkovsky,167,"Drama, Mystery, Sci-Fi",1
+7.7,Guy Hamilton,110,"Action, Adventure, Thriller",0
+8.1,Krzysztof Kieslowski,99,"Drama, Mystery, Romance",1
+8,Tim Burton,125,"Adventure, Drama, Fantasy",0
+7.7,Henry Selick,100,"Animation, Drama, Family",0
+7.7,John Cameron Mitchell,95,"Comedy, Drama, Music",0
+7.7,Robert Zemeckis,104,"Animation, Adventure, Comedy",0
+8.1,Richard Linklater,101,"Drama, Romance",1
+8,Martin Campbell,144,"Action, Adventure, Thriller",0
+8.4,Florian Henckel von Donnersmarck,137,"Drama, Mystery, Thriller",1
+7.6,Robert Altman,112,"Comedy, Crime, Drama",0
+8,Sergio Leone,99,"Action, Drama, Western",0
+7.9,George A. Romero,96,"Horror, Thriller",0
+8,W.S. Van Dyke,91,"Comedy, Crime, Mystery",0
+8.1,Jean-Pierre Melville,105,"Crime, Drama, Mystery",1
+8.4,Billy Wilder,110,"Drama, Film-Noir",1
+8.6,Fernando Meirelles,130,"Crime, Drama",1
+7.6,Tony Bancroft,88,"Animation, Adventure, Family",0
+8,Anurag Kashyap,144,"Drama, Romance",0
+7.7,Ron Howard,122,"Biography, Drama, History",0
+7.8,Sylvain Chomet,80,"Animation, Comedy, Drama",0
+8.2,Curtis Hanson,138,"Crime, Drama, Mystery",1
+8,George Roy Hill,110,"Biography, Crime, Drama",0
+7.8,Jim Jarmusch,129,"Comedy, Drama",0
+8.2,Sergio Pablos,96,"Animation, Adventure, Comedy",1
+8.5,Bryan Singer,106,"Crime, Mystery, Thriller",1
+7.6,Marc Caro,99,"Comedy, Crime",0
+7.6,Oriol Paulo,112,"Mystery, Thriller",0
+7.7,Spike Jonze,115,"Comedy, Drama",0
+7.8,Anthony Russo,147,"Action, Adventure, Sci-Fi",0
+8.1,Terry George,121,"Biography, Drama, History",1
+8.4,Hrishikesh Mukherjee,122,"Drama, Musical",1
+8.6,Steven Spielberg,169,"Drama, War",1
+8.1,Emir Kusturica,127,"Comedy, Crime, Romance",1
+7.8,Leo McCarey,69,"Comedy, Musical, War",0
+7.8,Clint Eastwood,135,Western,0
+7.7,Bob Gale,116,"Adventure, Comedy, Drama",0
+7.8,Robert De Niro,121,"Crime, Drama, Romance",0
+7.6,David Yates,153,"Action, Adventure, Family",0
+7.6,Richard Donner,109,"Action, Crime, Thriller",0
+7.6,George Miller,96,"Action, Adventure, Sci-Fi",0
+8.6,Jonathan Demme,118,"Crime, Drama, Thriller",1
+8,Destin Daniel Cretton,96,Drama,0
+8.4,Nadine Labaki,126,Drama,1
+7.9,Alfred Hitchcock,101,"Crime, Film-Noir, Thriller",0
+8.3,Fritz Lang,117,"Crime, Mystery, Thriller",1
+7.9,John Lasseter,92,"Animation, Adventure, Comedy",0
+8.3,Billy Wilder,107,"Crime, Drama, Film-Noir",1
+8.5,Roger Allers,88,"Animation, Adventure, Drama",1
+8.2,Clint Eastwood,130,"Drama, Western",1
+8.2,Christopher Nolan,140,"Action, Adventure",1
+7.9,Denis Villeneuve,116,"Drama, Sci-Fi",0
+7.8,Edgar Wright,121,"Action, Comedy, Mystery",0
+7.6,Fred Zinnemann,118,"Drama, Romance, War",0
+7.9,Michael Curtiz,102,"Action, Adventure, Romance",0
+7.8,Philip Kaufman,193,"Adventure, Biography, Drama",0
+8.1,Sujoy Ghosh,122,"Mystery, Thriller",1
+7.7,Imtiaz Ali,159,"Drama, Music, Musical",0
+7.7,Alfonso Cuarón,97,"Drama, Family, Fantasy",0
+7.6,Ron Howard,140,"Adventure, Drama, History",0
+7.6,Eric Bress,113,"Drama, Sci-Fi, Thriller",0
+7.8,Thomas Vinterberg,117,"Comedy, Drama",0
+8.6,Bong Joon Ho,132,"Comedy, Drama, Thriller",1
+7.8,Terence Young,108,Thriller,0
+7.8,Jack Clayton,100,Horror,0
+8.1,Ingmar Bergman,89,Drama,1
+7.7,Mark Osborne,108,"Animation, Adventure, Drama",0
+8,Hayao Miyazaki,125,"Animation, Adventure, Drama",0
+7.8,Gareth Edwards,133,"Action, Adventure, Sci-Fi",0
+7.8,Andrew Niccol,106,"Drama, Sci-Fi, Thriller",0
+7.8,Lasse Hallström,118,Drama,0
+7.9,Tarsem Singh,117,"Adventure, Drama, Fantasy",0
+8.3,Thomas Vinterberg,115,Drama,1
+7.7,Brian G. Hutton,158,"Action, Adventure, War",0
+8.6,Sudha Kongara,153,Drama,1
+7.6,Terry Gilliam,118,"Adventure, Comedy, Drama",0
+7.6,Alfred Hitchcock,86,"Crime, Mystery, Thriller",0
+8.3,Sam Mendes,119,"Drama, Thriller, War",1
+8.1,Kaige Chen,171,"Drama, Music, Romance",1
+7.6,Alejandro Amenábar,101,"Horror, Mystery, Thriller",0
+8.2,Aditya Dhar,138,"Action, Drama, War",1
+7.7,Edward Zwick,154,"Action, Drama",0
+8,Joss Whedon,143,"Action, Adventure, Sci-Fi",0
+8,Damien Chazelle,128,"Comedy, Drama, Music",0
+8,James Gunn,121,"Action, Adventure, Comedy",0
+8.2,Terry Gilliam,91,"Adventure, Comedy, Fantasy",1
+7.7,Jonathan Demme,125,Drama,0
+7.6,Joseph Kosinski,134,"Action, Biography, Drama",0
+8.6,Thomas Kail,160,"Biography, Drama, History",1
+8.1,David Yates,130,"Adventure, Drama, Fantasy",1
+7.6,Alejandro G. Iñárritu,124,"Crime, Drama, Thriller",0
+8,Frank Miller,124,"Crime, Thriller",0
+8.1,Richard Linklater,80,"Drama, Romance",1
+7.7,Josh Boone,126,"Drama, Romance",0
+8,Ömer Faruk Sorak,127,"Adventure, Comedy, Sci-Fi",0
+8.2,Yasujirô Ozu,136,Drama,1
+8,Taylor Hackford,180,"Crime, Drama",0
+8,Jacques Tourneur,97,"Crime, Drama, Film-Noir",0
+8.6,Akira Kurosawa,207,"Action, Adventure, Drama",1
+8.2,Ingmar Bergman,99,"Drama, Music",1
+7.8,David Fincher,166,"Drama, Fantasy, Romance",0
+7.8,Andrew Adamson,90,"Animation, Adventure, Comedy",0
+8.1,Nuri Bilge Ceylan,196,Drama,1
+8.2,Joseph L. Mankiewicz,138,Drama,1
+8,Frank Capra,118,"Comedy, Crime, Thriller",0
+8,Mike Leigh,136,"Comedy, Drama",0
+7.8,Michael Mann,157,"Biography, Drama, Thriller",0
+7.7,Kar-Wai Wong,99,"Comedy, Crime, Drama",0
+7.8,Guy Ritchie,113,"Action, Comedy, Crime",0
+7.9,J.J. Abrams,127,"Action, Adventure, Sci-Fi",0
+7.8,James Whale,70,"Drama, Horror, Sci-Fi",0
+7.8,John Huston,129,"Adventure, History, War",0
+7.8,Paolo Sorrentino,141,Drama,0
+7.7,Brian Henson,85,"Comedy, Drama, Family",0
+8,Yilmaz Erdogan,110,"Comedy, Drama",0
+8.1,Lasse Hallström,93,"Biography, Drama, Family",1
+8,Steven Spielberg,124,"Adventure, Thriller",0
+7.8,Mark Herman,94,"Drama, History, War",0
+7.7,Paul Greengrass,108,"Action, Mystery, Thriller",0
+8.4,Bob Persichetti,117,"Animation, Action, Adventure",1
+7.7,Todd Solondz,134,"Comedy, Drama",0
+7.7,Francis Veber,80,Comedy,0
+7.9,Wes Anderson,87,"Animation, Adventure, Comedy",0
+7.8,Ritesh Batra,104,"Drama, Romance",0
+8.8,David Fincher,139,Drama,1
+7.8,Abhishek Chaubey,148,"Action, Crime, Drama",0
+7.8,Howard Hawks,100,"Adventure, Comedy, Film-Noir",0
+7.6,Bennett Miller,133,"Biography, Drama, Sport",0
+8.2,Oliver Hirschbiegel,156,"Biography, Drama, History",1
+8.6,Masaki Kobayashi,133,"Action, Drama, Mystery",1
+8,Otto Preger,161,"Crime, Drama, Mystery",0
+7.7,Steven Soderbergh,116,"Crime, Thriller",0
+8,David Lean,197,"Drama, Romance, War",0
+8,Paul Thomas Anderson,188,Drama,0
+7.8,John McTiernan,107,"Action, Adventure, Sci-Fi",0
+8,Stephen Chbosky,113,"Drama, Family",0
+7.7,Don Siegel,102,"Action, Crime, Thriller",0
+7.6,John McTiernan,128,"Action, Adventure, Thriller",0
+7.8,Penny Marshall,121,"Biography, Drama",0
+7.6,Sean Baker,111,Drama,0
+8,Alejandro G. Iñárritu,156,"Action, Adventure, Drama",0
+7.8,Gauri Shinde,134,"Comedy, Drama, Family",0
+8.2,Lee Unkrich,103,"Animation, Adventure, Comedy",1
+7.6,Quentin Tarantino,161,"Comedy, Drama",0
+8.5,Tony Kaye,119,Drama,1
+7.9,Terry Gilliam,132,"Drama, Sci-Fi",0
+7.7,Abdellatif Kechiche,180,"Drama, Romance",0
+7.8,John Hughes,103,Comedy,0
+7.8,Aaron Sorkin,129,"Drama, History, Thriller",0
+7.9,George A. Romero,127,"Action, Adventure, Horror",0
+8.5,Ridley Scott,155,"Action, Adventure, Drama",1
+7.8,Stanley Kramer,108,"Comedy, Drama",0
+8.1,Hayao Miyazaki,117,"Animation, Adventure, Fantasy",1
+8.1,Céline Sciamma,122,"Drama, Romance",1
+7.9,Christophe Barratier,97,"Drama, Music",0
+8.1,Stanley Kubrick,185,"Adventure, Drama, History",1
+8.8,Robert Zemeckis,142,"Drama, Romance",1
+7.7,Cy Endfield,138,"Drama, History, War",0
+8.1,Robert Aldrich,134,"Drama, Horror, Thriller",1
+8.2,Pete Docter,96,"Animation, Adventure, Comedy",1
+7.9,Franklin J. Schaffner,172,"Biography, Drama, War",0
+8.1,Steven Spielberg,141,"Biography, Crime, Drama",1
+7.6,Tomm Moore,71,"Animation, Adventure, Family",0
+7.6,Chris Columbus,152,"Adventure, Family, Fantasy",0
+8.4,Quentin Tarantino,165,"Drama, Western",1
+7.6,Denis Villeneuve,121,"Action, Crime, Drama",0
+7.9,Alfonso Cuarón,109,"Adventure, Drama, Sci-Fi",0
+7.8,Robert Zemeckis,143,"Adventure, Drama, Romance",0
+7.7,Christian Carion,116,"Drama, History, Music",0
+7.8,Fatih Akin,122,Drama,0
+7.7,Anton Corbijn,122,"Biography, Drama, Music",0
+7.6,John Lee Hancock,129,"Biography, Drama, Sport",0
+7.9,David Lynch,147,"Drama, Mystery, Thriller",0
+7.8,Giuseppe Tornatore,131,"Crime, Drama, Mystery",0
+7.6,Spike Lee,129,"Crime, Drama, Mystery",0
+7.8,Mike Leigh,132,"Comedy, Drama",0
+7.8,Tim Burton,127,"Biography, Comedy, Drama",0
+7.7,Stephen Daldry,110,"Drama, Music",0
+8.2,Akira Kurosawa,110,"Action, Drama, Thriller",1
+7.7,Alfonso Cuarón,135,Drama,0
+8.1,Frank Capra,105,"Comedy, Romance",1
+7.9,Shin'ichirô Watanabe,115,"Animation, Action, Crime",0
+8,Billy Bob Thornton,135,Drama,0
+8.1,F.W. Murnau,94,"Drama, Romance",1
+8.1,Lenny Abrahamson,118,"Drama, Thriller",1
+7.9,Taika Waititi,108,"Comedy, Drama, War",0
+7.9,Mukesh Chhabra,101,"Comedy, Drama, Romance",0
+8,Kevin Costner,181,"Adventure, Drama, Western",0
+7.9,Fred Zinnemann,85,"Drama, Thriller, Western",0
+8,Katsuhiro Ôtomo,124,"Animation, Action, Sci-Fi",0
+8.1,Akira Kurosawa,139,"Adventure, Drama",1
+8.1,Akira Kurosawa,110,"Drama, History",1
+7.6,Pedro Almodóvar,120,"Drama, Horror, Thriller",0
+7.7,Luc Besson,126,"Action, Adventure, Sci-Fi",0
+8,William Friedkin,122,Horror,0
+7.9,Alfred Hitchcock,102,"Drama, Film-Noir, Romance",0
+8.5,Alfred Hitchcock,109,"Horror, Mystery, Thriller",1
+7.7,John Ford,129,"Comedy, Drama, Romance",0
+8.1,Emir Kusturica,170,"Comedy, Drama, War",1
+7.9,Cristian Mungiu,113,Drama,0
+7.7,Robert Aldrich,150,"Action, Adventure, War",0
+7.8,Robert Stevenson,139,"Comedy, Family, Fantasy",0
+8.1,Aditya Chopra,189,"Drama, Romance",1
+8.8,Sergio Leone,161,Western,1
+7.6,Guy Ritchie,128,"Action, Adventure, Mystery",0
+7.6,Ang Lee,136,"Drama, Romance",0
+8.1,Mel Gibson,139,"Biography, Drama, History",1
+7.9,Tim Burton,105,"Drama, Fantasy, Romance",0
+7.9,J.J. Abrams,138,"Action, Adventure, Sci-Fi",0
+8,Satoshi Kon,81,"Animation, Crime, Mystery",0
+7.8,Josh Cooley,100,"Animation, Adventure, Comedy",0
+7.7,Wes Anderson,93,"Comedy, Drama, Romance",0
+8.2,Guillermo del Toro,118,"Drama, Fantasy, War",1
+7.7,Matthew Vaughn,131,"Action, Adventure, Sci-Fi",0
+8.3,David Lean,228,"Adventure, Biography, Drama",1
+7.9,Fatih Akin,121,"Drama, Romance",0
+8,Garth Davis,118,"Biography, Drama",0
+8.1,Pete Docter,100,"Animation, Adventure, Comedy",1
+7.6,Zack Snyder,162,"Action, Drama, Mystery",0
+8.4,Aamir Khan,165,"Drama, Family",1
+8.4,Can Ulkay,125,"Biography, Drama, History",1
+8.3,Alfred Hitchcock,128,"Mystery, Romance, Thriller",1
+7.9,Clint Eastwood,141,"Action, Adventure, Drama",0
+8.1,Peter Weir,128,"Comedy, Drama",1
+7.7,Felix van Groeningen,111,"Drama, Music, Romance",0
+8.4,Akira Kurosawa,143,"Crime, Drama, Mystery",1
+8.1,Denis Villeneuve,153,"Crime, Drama, Mystery",1
+7.6,David Cronenberg,100,"Action, Crime, Drama",0
+7.8,Niels Arden Oplev,152,"Crime, Drama, Mystery",0
+7.6,Brad Bird,118,"Animation, Action, Adventure",0
+7.7,Jessie Nelson,132,Drama,0
+8.1,Alan Parker,95,"Drama, Fantasy, Music",1
+8.3,George Roy Hill,129,"Comedy, Crime, Drama",1
+7.7,Ted Kotcheff,93,"Action, Adventure",0
+8.1,Jim Sheridan,133,"Biography, Crime, Drama",1
+7.9,Jon Favreau,126,"Action, Adventure, Sci-Fi",0
+8,Thomas Vinterberg,105,Drama,0
+8.1,Neeraj Pandey,104,"Action, Crime, Drama",1
+7.6,Daniel Monzón,113,"Action, Adventure, Crime",0
+7.6,Tom Tykwer,81,"Crime, Drama, Thriller",0
+8.3,Akira Kurosawa,143,Drama,1
+8.4,Makoto Shinkai,106,"Animation, Drama, Fantasy",1
+7.8,James Cameron,194,"Drama, Romance",0
+7.7,Alexander Payne,115,"Adventure, Comedy, Drama",0
+8.3,Denis Villeneuve,131,"Drama, Mystery, War",1
+7.7,Bernardo Bertolucci,163,"Biography, Drama, History",0
+7.8,Paolo Genovese,96,"Comedy, Drama",0
+7.9,Michael Haneke,127,"Drama, Romance",0
+7.8,Roger Donaldson,127,"Biography, Drama, Sport",0
+8,Morten Tyldum,114,"Biography, Drama, Thriller",0
+8.1,Charles Chaplin,72,"Comedy, Romance",1
+8.1,Rajkumar Hirani,144,"Comedy, Drama, Romance",1
+8.4,Charles Chaplin,125,"Comedy, Drama, War",1
+7.6,Hiromasa Yonebayashi,94,"Animation, Adventure, Family",0
+8.3,Jeethu Joseph,160,"Crime, Drama, Thriller",1
+7.6,Stephen Frears,98,"Biography, Comedy, Drama",0
+7.8,Steven Spielberg,115,"Family, Sci-Fi",0
+8.5,Charles Chaplin,87,"Comedy, Drama, Family",1
+8.1,Andrei Tarkovsky,95,"Drama, War",1
+7.8,Adam McKay,130,"Biography, Comedy, Drama",0
+8,Sidney Lumet,125,"Biography, Crime, Drama",0
+8.1,Anurag Basu,151,"Comedy, Drama, Romance",1
+7.7,Taylor Sheridan,107,"Crime, Drama, Mystery",0
+7.6,Steven Spielberg,142,"Drama, History, Thriller",0
+7.8,Paul King,103,"Adventure, Comedy, Family",0
+7.9,John Frankenheimer,126,"Drama, Thriller",0
+7.7,Michael Mann,112,"Action, Adventure, Drama",0
+8,Walter Salles,110,Drama,0
+8.5,Sergio Leone,165,Western,1
+7.7,Hayao Miyazaki,100,"Animation, Adventure, Family",0
+8,Paul Greengrass,115,"Action, Mystery, Thriller",0
+8.5,Isao Takahata,89,"Animation, Drama, War",1
+7.7,Taylor Hackford,152,"Biography, Drama, Music",0
+7.7,Sidney Lumet,130,"Biography, Crime, Drama",0
+7.9,Paul Thomas Anderson,155,Drama,0
+7.9,Woody Allen,96,"Comedy, Drama, Romance",0
+8.3,Sergio Leone,132,Western,1
+7.7,Joel Coen,115,"Crime, Drama, Thriller",0
+8,Federico Fellini,174,"Comedy, Drama",0
+7.6,Don Siegel,112,"Action, Biography, Crime",0
+8.1,Peter Weir,103,"Comedy, Drama",1
+8.1,Carol Reed,104,"Film-Noir, Mystery, Thriller",1
+7.6,James Wan,103,"Horror, Mystery, Thriller",0
+8,Norman Jewison,181,"Drama, Family, Musical",0
+7.7,Matthew Vaughn,129,"Action, Adventure, Comedy",0
+8,Henri-Georges Clouzot,117,"Crime, Drama, Horror",0
+8.5,James Cameron,137,"Action, Sci-Fi",1
+7.8,Asghar Farhadi,124,Drama,0
+7.9,John Ford,119,"Adventure, Drama, Western",0
+7.8,Mel Gibson,139,"Action, Adventure, Drama",0
+8.1,David Lean,161,"Adventure, Drama, War",1
+7.6,Gregg Araki,105,Drama,0
+8.3,Stanley Kubrick,136,"Crime, Drama, Sci-Fi",1
+7.6,Susanne Bier,118,"Drama, Romance",0
+8.1,David Fincher,149,"Drama, Mystery, Thriller",1
+8.2,Emir Kusturica,142,"Comedy, Crime, Drama",1
+7.7,Joseph Sargent,104,"Action, Crime, Thriller",0
+7.7,Alejandro Amenábar,119,"Drama, Mystery, Sci-Fi",0
+8.1,Zoya Akhtar,155,"Comedy, Drama",1
+7.7,John Huston,105,"Adventure, Drama, Romance",0
+8.2,Priyadarshan,156,"Action, Comedy, Crime",1
+8.4,Lee Unkrich,105,"Animation, Adventure, Family",1
+8,Lars von Trier,140,"Crime, Drama, Musical",0
+7.6,Spike Lee,135,Drama,0
+7.8,David Fincher,158,"Crime, Drama, Mystery",0
+8,William Wyler,170,"Drama, Romance, War",0
+7.8,Arthur Penn,111,"Action, Biography, Crime",0
+8,Joseph L. Mankiewicz,138,"Mystery, Thriller",0
+7.8,Alfred Hitchcock,96,"Mystery, Thriller",0
+8.1,Damián Szifron,122,"Comedy, Drama, Thriller",1
+8,Robert Rossen,134,"Drama, Sport",0
+8.1,Tom McCarthy,129,"Biography, Crime, Drama",1
+8,Mamoru Oshii,83,"Animation, Action, Crime",0
+8,Howard Hawks,141,"Action, Drama, Western",0
+8.2,Stanley Kramer,179,"Drama, War",1
+7.7,Anthony Russo,136,"Action, Adventure, Sci-Fi",0
+7.7,Rich Moore,101,"Animation, Adventure, Comedy",0
+7.7,Michael Radford,108,"Biography, Comedy, Drama",0
+7.8,Asghar Farhadi,130,"Drama, Mystery",0
+7.7,Shûsuke Kaneko,126,"Crime, Drama, Fantasy",0
+8.4,Rajkumar Hirani,170,"Comedy, Drama",1
+8,Peter Bogdanovich,118,"Drama, Romance",0
+7.6,Sebastian Schipper,138,"Crime, Drama, Romance",0
+7.7,James Simone,103,"Animation, Drama, Family",0
+8.1,Andrew Stanton,100,"Animation, Adventure, Comedy",1
+8.1,Aniruddha Roy Chowdhury,136,"Drama, Thriller",1
+7.7,Rob Reiner,138,"Drama, Thriller",0
+7.9,Imtiaz Ali,138,"Comedy, Drama, Romance",0
+7.9,Cameron Crowe,122,"Adventure, Comedy, Drama",0
+8,Quentin Tarantino,137,"Action, Crime, Thriller",0
+7.9,Henry Koster,104,"Comedy, Drama, Fantasy",0
+7.8,Joss Whedon,119,"Action, Adventure, Sci-Fi",0
+8.1,Rob Reiner,89,"Adventure, Drama",1
+7.8,Meghna Gulzar,138,"Action, Drama, Thriller",0
+7.8,Matthew Warchus,119,"Biography, Comedy, Drama",0
+7.6,Deniz Gamze Ergüven,97,Drama,0
+8.2,Steven Spielberg,127,"Action, Adventure",1
+8.6,Christopher Nolan,169,"Adventure, Drama, Sci-Fi",1
+8,David Lean,86,"Drama, Romance",0
+7.6,Yann Samuell,93,"Comedy, Drama, Romance",0
+7.6,Zack Snyder,117,"Action, Drama",0
+7.9,Stanley Kubrick,197,"Adventure, Biography, Drama",0
+8.1,George Miller,120,"Action, Adventure, Sci-Fi",1
+7.6,Steven Spielberg,145,"Action, Crime, Mystery",0
+7.7,Nicholas Meyer,113,"Action, Adventure, Sci-Fi",0
+7.8,René Laloux,72,"Animation, Sci-Fi",0
+9.2,Francis Ford Coppola,175,"Crime, Drama",1
+7.7,Georges Franju,90,"Drama, Horror",0
+8.2,Peter Farrelly,130,"Biography, Comedy, Drama",1
+8.4,Stanley Kubrick,146,"Drama, Horror",1
+8.3,Gus Van Sant,126,"Drama, Romance",1
+8,Alfred Hitchcock,80,"Crime, Drama, Mystery",0
+8.9,Steven Spielberg,195,"Biography, Drama, History",1
+7.6,Tom McCarthy,104,Drama,0
+8.3,Mel Gibson,178,"Biography, Drama, History",1
+8.1,Clyde Bruckman,67,"Action, Adventure, Comedy",1
+8.1,Ashutosh Gowariker,224,"Adventure, Drama, Musical",1
+7.6,Marc Forster,106,"Biography, Drama, Family",0
+8.6,Hayao Miyazaki,125,"Animation, Adventure, Family",1
+8.1,Vishal Bhardwaj,160,"Action, Crime, Drama",1
+7.9,Merian C. Cooper,100,"Adventure, Horror, Sci-Fi",0
+7.8,David Fincher,129,"Action, Drama, Mystery",0
+7.8,Kevin Altieri,76,"Animation, Action, Crime",0
+7.7,Joel Coen,107,"Adventure, Comedy, Crime",0
+8,Nikkhil Advani,186,"Comedy, Drama, Musical",0
+7.8,Christopher Nolan,106,"Action, Drama, History",0
+7.6,Michelangelo Antonioni,111,"Drama, Mystery, Thriller",0
+7.6,Woody Allen,124,"Drama, Romance, Thriller",0
+7.9,Billy Wilder,101,"Drama, Film-Noir",0
+7.9,Fabián Bielinsky,114,"Crime, Drama, Thriller",0
+8.7,Lana Wachowski,136,"Action, Sci-Fi",1
+8.2,Martin McDonagh,115,"Comedy, Crime, Drama",1
+8.4,Christopher Nolan,113,"Mystery, Thriller",1
+7.7,Ang Lee,134,"Drama, Romance",0
+7.6,Blake Edwards,115,"Comedy, Drama, Romance",0
+8.5,Michael Curtiz,102,"Drama, Romance, War",1
+7.9,Norman Jewison,110,"Crime, Drama, Mystery",0
+7.7,David Fincher,157,"Crime, Drama, Mystery",0
+8,William Wyler,118,"Comedy, Romance",0
+8.1,Wim Wenders,145,Drama,1
+7.7,Joel Coen,116,"Comedy, Drama, Thriller",0
+8,James Cameron,107,"Action, Sci-Fi",0
+8.1,Sidney Lumet,121,Drama,1
+7.6,Andrey Zvyagintsev,127,Drama,0
+7.8,Troy Duffy,108,"Action, Crime, Thriller",0
+7.6,Gareth Evans,101,"Action, Thriller",0
+8,Stephen Chbosky,103,"Drama, Romance",0
+7.8,Alan Parker,128,"Crime, Drama, History",0
+7.7,Mike Newell,127,"Biography, Crime, Drama",0
+7.6,Dennis Gansel,107,"Drama, Thriller",0
+8.3,Billy Wilder,125,"Comedy, Drama, Romance",1
+8.1,Rajkumar Hirani,156,"Comedy, Drama, Musical",1
+7.7,Kevin Smith,92,Comedy,0
+7.7,Abhishek Kapoor,130,"Drama, Sport",0
+8.1,Pete Docter,95,"Animation, Adventure, Comedy",1
+7.7,Alex Garland,108,"Drama, Sci-Fi, Thriller",0
+7.8,Roland Joffé,141,"Biography, Drama, History",0
+7.8,David O. Russell,116,"Biography, Drama, Sport",0
+8.1,Gillo Pontecorvo,121,"Drama, War",1
+8.1,Umesh Shukla,125,"Comedy, Drama, Fantasy",1
+8.2,Andrei Tarkovsky,162,"Drama, Sci-Fi",1
+7.6,Alan Parker,121,"Biography, Crime, Drama",0
+8,Billy Wilder,120,"Comedy, Drama, War",0
+8.1,Billy Wilder,111,"Drama, Film-Noir",1
+8.4,Christopher Nolan,164,"Action, Adventure",1
+8,Mike Nichols,131,Drama,0
+7.9,Yimou Zhang,120,"Action, Adventure, History",0
+7.8,Richard Donner,114,"Adventure, Comedy, Family",0
+8.1,John Carpenter,109,"Horror, Mystery, Sci-Fi",1
+7.8,Chan-wook Park,110,"Action, Drama, Thriller",0
+7.6,Alfred Hitchcock,97,"Drama, War",0
+7.8,Rob Reiner,107,"Drama, Thriller",0
+7.8,Don Hall,102,"Animation, Action, Adventure",0
+7.6,Norman Jewison,146,"Biography, Drama, Sport",0
+7.6,Chan-wook Park,129,"Crime, Drama, Thriller",0
+8,Ki-duk Kim,103,"Drama, Romance",0
+7.7,Sam Mendes,143,"Action, Adventure, Thriller",0
+8.1,Steve McQueen,134,"Biography, Drama, History",1
+8.5,Robert Zemeckis,116,"Adventure, Comedy, Sci-Fi",1
+7.8,F. Gary Gray,147,"Biography, Drama, History",0
+7.9,Rian Johnson,130,"Comedy, Crime, Drama",0
+7.8,Boaz Yakin,113,"Biography, Drama, Sport",0
+7.7,Kevin Macdonald,123,"Biography, Drama, History",0
+7.8,John Huston,100,"Action, Crime, Drama",0
+8.1,Dean DeBlois,98,"Animation, Action, Adventure",1
+8.2,Rakeysh Omprakash Mehra,167,"Comedy, Crime, Drama",1
+7.7,Paul Haggis,112,"Crime, Drama, Thriller",0
+8.2,Moustapha Akkad,177,"Biography, Drama, History",1
+7.9,Richard Linklater,109,"Drama, Romance",0
+7.9,Luis Buñuel,102,Comedy,0
+7.9,Ken Loach,100,Drama,0
+7.9,Richard Linklater,165,Drama,0
+7.6,Andrey Zvyagintsev,140,"Crime, Drama",0
+8.1,Yôjirô Takita,130,"Drama, Music",1
+7.8,Shoojit Sircar,126,"Comedy, Romance",0
+8.2,Ron Howard,135,"Biography, Drama",1
+8.1,François Truffaut,99,"Crime, Drama",1
+7.6,Richard Linklater,102,Comedy,0
+8,Terry Gilliam,129,"Mystery, Sci-Fi, Thriller",0
+8,Gabriele Muccino,117,"Biography, Drama",0
+7.9,Doug Liman,113,"Action, Adventure, Sci-Fi",0
+7.9,Sam Peckinpah,145,"Action, Adventure, Western",0
+8.5,Giuseppe Tornatore,155,"Drama, Romance",1
+7.7,Michael Powell,101,"Drama, Horror, Thriller",0
+7.7,Gregory Hoblit,129,"Crime, Drama, Mystery",0
+7.8,Terrence Malick,94,"Drama, Romance",0
+7.8,John Woo,111,"Action, Crime, Drama",0
+7.9,Tomas Alfredson,114,"Crime, Drama, Fantasy",0
+7.6,George Stevens,201,"Drama, Western",0
+7.8,Peter Jackson,161,"Adventure, Fantasy",0
+7.9,Noah Baumbach,137,"Comedy, Drama, Romance",0
+7.9,Werner Herzog,95,"Action, Adventure, Biography",0
+7.7,Peter Mullan,114,Drama,0
+8,Hal Ashby,130,"Comedy, Drama",0
+7.8,Dorota Kobiela,94,"Animation, Biography, Crime",0
+8.3,Stanley Kubrick,149,"Adventure, Sci-Fi",1
+7.6,John Hughes,93,"Comedy, Drama",0
+8.1,James Mangold,137,"Action, Drama, Sci-Fi",1
+7.8,Joe Wright,129,"Drama, Romance",0
+7.9,Bryan Singer,132,"Action, Adventure, Sci-Fi",0
+8.1,Alfred Hitchcock,130,"Drama, Mystery, Romance",1
+8,Otto Preger,88,"Drama, Film-Noir, Mystery",0
+8,Vincent Paronnaud,96,"Animation, Biography, Drama",0
+7.8,Hayao Miyazaki,126,"Animation, Biography, Drama",0
+8,Ki-duk Kim,88,"Crime, Drama, Romance",0
+7.6,Barry Levinson,147,"Crime, Drama, Thriller",0
+8.2,Nishikant Kamat,163,"Crime, Drama, Mystery",1
+7.8,Alfred Hitchcock,108,"Film-Noir, Thriller",0
+7.7,Kenneth Branagh,242,Drama,0
+7.8,Hong-jin Na,125,"Action, Crime, Thriller",0
+8.2,Jules Dassin,118,"Crime, Drama, Thriller",1
+8.3,Brian De Palma,170,"Crime, Drama",1
+8.1,Roman Polanski,130,"Drama, Mystery, Thriller",1
+7.7,Mel Brooks,93,"Comedy, Western",0
+7.9,F.W. Murnau,94,"Fantasy, Horror",0
+7.9,Luca Guadagnino,132,"Drama, Romance",0
+7.8,Theodore Melfi,127,"Biography, Drama, History",0
+7.7,Bruce Robinson,107,"Comedy, Drama",0
+8.3,Çagan Irmak,112,"Drama, Family",1
+7.7,Todd Phillips,100,Comedy,0
+8,Neeraj Pandey,144,"Crime, Drama, Thriller",0
+8.3,Quentin Tarantino,99,"Crime, Drama, Thriller",1
+7.7,Yoshiaki Kawajiri,103,"Animation, Action, Fantasy",0
+8,Tim Miller,108,"Action, Adventure, Comedy",0
+8.1,Elia Kazan,108,"Crime, Drama, Thriller",1
+8.3,Stanley Kubrick,116,"Drama, War",1
+7.7,David Fincher,120,"Biography, Drama",0
+7.7,Scott Hicks,105,"Biography, Drama, Music",0
+8.3,Martin Scorsese,114,"Crime, Drama",1
+7.6,Clint Eastwood,135,"Drama, Romance",0
+8,Gareth Evans,150,"Action, Crime, Thriller",0
+8,Franklin J. Schaffner,151,"Biography, Crime, Drama",0
+7.9,Brian De Palma,144,"Crime, Drama, Thriller",0
+8,Stanley Kubrick,84,"Crime, Drama, Film-Noir",0
+7.9,Clint Eastwood,138,"Crime, Drama, Mystery",0
+7.6,Isao Takahata,118,"Animation, Drama, Romance",0
+7.6,Gabriele Muccino,123,Drama,0
+8,Harold Ramis,101,"Comedy, Fantasy, Romance",0
+7.7,Alfonso Cuarón,91,"Drama, Sci-Fi, Thriller",0
+8.4,Anthony Russo,181,"Action, Adventure, Drama",1
+8,Brad Bird,86,"Animation, Action, Adventure",0
+8,Wilson Yip,106,"Action, Biography, Drama",0
+7.7,Roman Polanski,126,"Drama, Thriller",0
+9,Francis Ford Coppola,202,"Crime, Drama",1
+8.3,Sam Mendes,122,Drama,1
+8.1,Mathieu Kassovitz,98,"Crime, Drama",1
+7.8,Paul Greengrass,134,"Adventure, Biography, Crime",0
+7.8,James Ivory,134,"Drama, Romance",0
+8.1,Stuart Rosenberg,127,"Crime, Drama",1
+7.9,George Seaton,96,"Comedy, Drama, Family",0
+7.8,Lars von Trier,159,Drama,0
+7.6,Martin Rosen,91,"Animation, Adventure, Drama",0
+8.1,Henri-Georges Clouzot,131,"Adventure, Drama, Thriller",1
+8.4,Chan-wook Park,101,"Action, Drama, Mystery",1
+7.9,Alfonso Cuarón,142,"Adventure, Family, Fantasy",0
+8.1,Ridley Scott,117,"Action, Sci-Fi, Thriller",1
+8.3,Rahi Anil Barve,104,"Drama, Fantasy, Horror",1
